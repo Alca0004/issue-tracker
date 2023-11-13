@@ -41,3 +41,5 @@ export default NavBar;
 
 //npm install react-icons@4.11.0
 //npm install classnames@2.3.2
+//Setting up mySQL and datagrip
+//Setting up prisma
